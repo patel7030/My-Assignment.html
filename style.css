@@ -1,0 +1,63 @@
+*{
+	fo
+}
+header{
+	background-color: black;
+	padding: 10px;
+}
+h1{
+	font font-family: Montserrat;
+	text-align: center;
+	background-color: black;
+	color: white;
+	padding: 30px  ;
+}
+hr{
+	border: 2px solid black;
+	width: 50%;
+}
+p{
+	font-family: Montserrat;
+	text-align: center;
+	margin-left:100px;
+	margin-right: 100px;
+	margin-top: 25px;
+}
+img {
+  border-radius: 50%;
+  width: 50%;
+  margin-top: 50px;
+  im
+}
+a{
+	text-align: center;
+}
+
+.spcial_para{
+	font-size: 20px;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+ul{
+	list-style: none;
+}
+li{
+	display: inline;
+	margin: 100px;
+	text-decoration: none;
+
+}
+li a{
+	color: white;
+	text-decoration: none;
+
+}
+footer{
+	background-color: black;
+	color: white;
+
+ }
